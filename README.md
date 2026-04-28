@@ -256,19 +256,17 @@ npm run dev
 
 ## 📸 Screenshots
 
-> Add screenshots to a `/screenshots` folder in your repo and update the paths below.
-
 ### 🏠 Home Page
-![Home](./screenshots/home.png)
+
 
 ### 🍽️ Shop / Menu Page
-![Shop](./screenshots/shop.png)
+
 
 ### 🛒 Cart & Checkout
-![Cart](./screenshots/cart.png)
+
 
 ### 📍 Live Order Tracking
-![Tracking](./screenshots/tracking.png)
+
 
 ---
 
@@ -284,8 +282,7 @@ npm run dev
 ## 👨‍💻 Author
 
 **Vinayak Ranwat**  
-GitHub: [@Vinayak-Ranawat](https://github.com/your-username)  
-LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+GitHub: [@Vinayak-Ranawat](https://github.com/Vinayak-Ranawat)  
 
 ---
 
