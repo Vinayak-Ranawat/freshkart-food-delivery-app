@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+/* Hide scrollbar browsers */
+* {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+*::-webkit-scrollbar {
+  display: none;
+}
+
+/* ─── BLUE + ORANGE theme CSS variables ─── */
+:root[data-theme="blue-orange"] {
+  --color-primary: #3b82f6;      /* blue-500  */
+  --color-primary-dark: #1d4ed8; /* blue-700  */
+  --color-accent: #f97316;       /* orange-500 */
+  --color-accent-dark: #ea580c;  /* orange-600 */
+  --color-bg: #eff6ff;           /* blue-50   */
+  --color-card: #ffffff;
+  --color-border: #dbeafe;       /* blue-100  */
+}
+
+/* ─── GREEN + ORANGE theme CSS variables ─── */
+:root[data-theme="green-orange"] {
+  --color-primary: #16a34a;      /* green-600 */
+  --color-primary-dark: #15803d; /* green-700 */
+  --color-accent: #f97316;       /* orange-500 */
+  --color-accent-dark: #ea580c;  /* orange-600 */
+  --color-bg: #f0fdf4;           /* green-50  */
+  --color-card: #ffffff;
+  --color-border: #dcfce7;       /* green-100 */
+}
+
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+  z-index: 0;
+}
+.leaflet-pane { z-index: 0; }
+.leaflet-top, .leaflet-bottom { z-index: 0; }
