@@ -257,16 +257,18 @@ npm run dev
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/f3a76046-8f49-4ec4-b687-5b7202ab9ebf" />
 
 ### 🍽️ Shop / Menu Page
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/dab7539c-f97e-4731-926b-b9ed14c6dbe8" />
 
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/536c24b7-65cc-409e-ae78-e7680f058bf0" />
 
 ### 🛒 Cart & Checkout
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/5b4935af-112c-4aae-a83f-351907da366f" />
 
-
-### 📍 Live Order Tracking
-
+### Owner Dashboard
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/69b3ea49-6a29-4bdf-9f13-b8e63c5253ec" />
 
 ---
 
